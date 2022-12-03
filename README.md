@@ -17,7 +17,7 @@ But for now, there's no installation! This project is just a static set of nonse
 ## Usage
 The project was build by following [An ABSOLUTE Beginner's Guide to Software Engineering and Web Development](https://www.youtube.com/watch?v=Wt47gSihb5s&list=PLJjxqjPti-LfbLhTs-XSNecyqBOtRB0fS&ab_channel=Facehair4000)
 
-##Support
+## Support
 Join our [Discord](https://discord.gg/vyX95H8Q) If you have any questions or are interested in being involved with a growing community of future software engineers! (no prior knowledge necessary ;))
 
 ## Contributing
