@@ -2,9 +2,9 @@
 
 ## About Me
 ### Personal Profile
-My name is Darin, or online basStromboni
-I am 29 years old
-Born and raised in rural Illinois
+- My name is Darin, or online basStromboni
+- I am 29 years old
+- Born and raised in rural Illinois
 
 ### Achievements
 - Eagle Scout
